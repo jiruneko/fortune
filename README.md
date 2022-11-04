@@ -1,1 +1,1 @@
-# fortune (omikuji)
+# fortune (Japanese omikuji)
